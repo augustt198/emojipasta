@@ -1,0 +1,14 @@
+flight :airplane:
+plane :airplane
+airplane :airplane:
+butt :peach:
+ass :peach:
+penis :eggplant:
+dick :eggplant:
+long :clock1:
+police :police:
+nut :sweat_drops:
+ok :ok_hand:
+good :ok_hand:
+shit :shit:
+crap :shit:
